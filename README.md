@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Gomoku (крестики-нолики)
+<ul>
+  <li>CRA</li>
+  <li>Redux</li>
+  <li>TypeScript</li>
+</ul>
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
