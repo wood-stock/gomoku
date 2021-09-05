@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/gomoku/static/css/main.8c7a1ac7.chunk.css",
-    "main.js": "/gomoku/static/js/main.13a93495.chunk.js",
-    "main.js.map": "/gomoku/static/js/main.13a93495.chunk.js.map",
+    "main.js": "/gomoku/static/js/main.9b6c6600.chunk.js",
+    "main.js.map": "/gomoku/static/js/main.9b6c6600.chunk.js.map",
     "runtime-main.js": "/gomoku/static/js/runtime-main.8210e18d.js",
     "runtime-main.js.map": "/gomoku/static/js/runtime-main.8210e18d.js.map",
-    "static/js/2.b47b91bd.chunk.js": "/gomoku/static/js/2.b47b91bd.chunk.js",
-    "static/js/2.b47b91bd.chunk.js.map": "/gomoku/static/js/2.b47b91bd.chunk.js.map",
+    "static/js/2.fda39fae.chunk.js": "/gomoku/static/js/2.fda39fae.chunk.js",
+    "static/js/2.fda39fae.chunk.js.map": "/gomoku/static/js/2.fda39fae.chunk.js.map",
     "index.html": "/gomoku/index.html",
     "static/css/main.8c7a1ac7.chunk.css.map": "/gomoku/static/css/main.8c7a1ac7.chunk.css.map",
-    "static/js/2.b47b91bd.chunk.js.LICENSE.txt": "/gomoku/static/js/2.b47b91bd.chunk.js.LICENSE.txt"
+    "static/js/2.fda39fae.chunk.js.LICENSE.txt": "/gomoku/static/js/2.fda39fae.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8210e18d.js",
-    "static/js/2.b47b91bd.chunk.js",
+    "static/js/2.fda39fae.chunk.js",
     "static/css/main.8c7a1ac7.chunk.css",
-    "static/js/main.13a93495.chunk.js"
+    "static/js/main.9b6c6600.chunk.js"
   ]
 }
